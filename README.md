@@ -1,0 +1,2 @@
+# macos-debloat
+Macos Debloater
